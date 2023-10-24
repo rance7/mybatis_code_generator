@@ -1,1 +1,1 @@
-# generator
+# mybatis_code_generator
